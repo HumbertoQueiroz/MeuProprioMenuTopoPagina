@@ -202,8 +202,9 @@ animation: blink 0.7s infinite;
   animation-duration: 3s;
   animation-name: pisca;
   animation-iteration-count: infinite;
-  
+  cursor: pointer;
 }
+
 
 @keyframes pisca{
   0%{
